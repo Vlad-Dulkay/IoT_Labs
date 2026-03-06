@@ -12,7 +12,7 @@
 
 After pressing <kbd>Enter</kbd>, the program will ask you to select a framework. Choose the one labeled **ESP-IDF**, preferably the latest stable version.
 
-![comm-palette](images\command-palette.png)
+![comm-palette](images/command-palette.png)
 
 In the input field that appears, type:
 
@@ -22,7 +22,7 @@ ESP-IDF: New Project
 
 After pressing <kbd>Enter</kbd>, a new tab will appear in the program workspace, as shown in the figure below.
 
-![create-proj](images\create-project.png)
+![create-proj](images/create-project.png)
 
 In this tab, select the following items from the list:
 
