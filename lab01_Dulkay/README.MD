@@ -36,19 +36,19 @@ This step is described in detail in the **README.MD** file located in the **main
 
 ## 8×8 LED Dot Matrix 1588BS Pinout
 
-![8x8_dot_led_matr](images/8x8_dot_matrix_1588BS.png)
+![8x8_dot_led_matr](images\8x8_dot_matrix_1588BS.png)
 
-![8x8_dot_led_matr](images/1588BS_pinout.png)
+![8x8_dot_led_matr](images\1588BS_pinout.png)
 
 
 ## 8×8 LED Dot Matrix 1588BS Diagram
 
-![8x8_dot_led_matr](images/1588BS_diagram.png)
+![8x8_dot_led_matr](images\1588BS_diagram.png)
 
 
 ## Breadboard Setup
 
-![8x8_dot_led_matr](images/breadboard.png)
+![8x8_dot_led_matr](images\breadboard.png)
 
 
 ## Task Implementation
